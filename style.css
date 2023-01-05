@@ -1,0 +1,18 @@
+* {
+    padding: 1px;
+    margin: 1px;
+    font-family: sans-serif;
+}
+
+.backgroundStyle1 {
+    background-color: white;
+}
+
+.backgroundStyle2 {
+    background-color: #860404;
+    color: white;
+}
+
+.note {
+    color: red;
+}
